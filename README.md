@@ -7,7 +7,7 @@ An Azure-based SOC home lab using Microsoft Sentinel to collect and analyze secu
 
 ## Objective
 
-[Add project objectives here.]
+The objective of this project is to build a cloud-based Security Operations Center (SOC) home lab using Microsoft Azure and Microsoft Sentinel. This project focuses on collecting and analyzing security logs, monitoring suspicious activity, identifying potential threats, and gaining hands-on experience with SIEM tools, threat detection, and incident investigation in a simulated real-world environment.
 
 ## Skills Learned
 
