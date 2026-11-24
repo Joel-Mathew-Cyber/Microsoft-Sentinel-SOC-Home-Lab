@@ -11,9 +11,7 @@ The objective of this project is to build a cloud-based Security Operations Cent
 
 ## Skills Learned
 
-[Add skills as you gain hands-on experience.]
-
--
+- Understanding Security Information and Event Management (SIEM) concepts through Microsoft Sentinel.
 
 ## Tools Used
 
