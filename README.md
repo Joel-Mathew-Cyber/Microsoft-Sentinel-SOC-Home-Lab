@@ -11,6 +11,7 @@ The objective of this project is to build a cloud-based Security Operations Cent
 
 ## Skills Learned
 
+- Configuring and managing virtual machines in Microsoft Azure.
 - Understanding Security Information and Event Management (SIEM) concepts through Microsoft Sentinel.
 
 ## Tools Used
