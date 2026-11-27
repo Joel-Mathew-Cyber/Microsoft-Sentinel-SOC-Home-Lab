@@ -14,6 +14,7 @@ The objective of this project is to build a cloud-based Security Operations Cent
 - Configuring and managing virtual machines in Microsoft Azure.
 - Understanding Security Information and Event Management (SIEM) concepts through Microsoft Sentinel.
 - Collecting, ingesting, and analyzing Windows security event logs.
+- Identifying suspicious activity and unauthorized login attempts.
 
 ## Tools Used
 
